@@ -1,0 +1,5 @@
+C:\Users\Frenet\Desktop\DIO\Cadastro_Series\DIO.Series.exe
+C:\Users\Frenet\Desktop\DIO\Cadastro_Series\DIO.Series.dll
+C:\Users\Frenet\Desktop\DIO\Cadastro_Series\DIO.Series.deps.json
+C:\Users\Frenet\Desktop\DIO\Cadastro_Series\DIO.Series.runtimeconfig.json
+C:\Users\Frenet\Desktop\DIO\Cadastro_Series\DIO.Series.pdb
